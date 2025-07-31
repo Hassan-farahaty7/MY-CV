@@ -14,13 +14,13 @@ img.rounded-circle {
   width: 150px;
   height: 150px;
   object-fit: cover;
-  object-position: left top;
+  
 }
 .text h3 {
   font-weight: 600;
 }
 .text p {
-  color: lawngreen;
+  color: rgb(88, 0, 252);
   font-weight: 500;
 }
 .click {
